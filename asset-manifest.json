@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Filmpire-Movie-Web-App/static/css/main.b9a2ff99.css",
+    "main.js": "/Filmpire-Movie-Web-App/static/js/main.9421d683.js",
+    "static/js/453.52008492.chunk.js": "/Filmpire-Movie-Web-App/static/js/453.52008492.chunk.js",
+    "index.html": "/Filmpire-Movie-Web-App/index.html",
+    "static/media/search.svg": "/Filmpire-Movie-Web-App/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.b9a2ff99.css.map": "/Filmpire-Movie-Web-App/static/css/main.b9a2ff99.css.map",
+    "main.9421d683.js.map": "/Filmpire-Movie-Web-App/static/js/main.9421d683.js.map",
+    "453.52008492.chunk.js.map": "/Filmpire-Movie-Web-App/static/js/453.52008492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a2ff99.css",
+    "static/js/main.9421d683.js"
+  ]
+}
